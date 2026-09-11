@@ -12,9 +12,12 @@ redirect_from:
 
 <header class="site-intro">
   <h1 class="site-intro__name">Laizhen Li</h1>
-  <p class="site-intro__role">M.Eng. Student in Computer Technology</p>
-  <p class="site-intro__affiliation">University of Chinese Academy of Sciences · Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences</p>
-  <p class="site-intro__tagline">Trustworthy and Efficient LLM Agents</p>
+  <p class="site-intro__address">
+    F-building, 10th floor<br>
+    Xueyuan Avenue No. 1068, Nanshan District<br>
+    Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences<br>
+    Shenzhen, Guangdong, China
+  </p>
   <p class="site-intro__links">
     <a href="mailto:lilaizhencs@gmail.com">Email</a>
     <span aria-hidden="true">·</span>

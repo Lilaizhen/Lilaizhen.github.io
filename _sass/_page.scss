@@ -53,29 +53,15 @@
     line-height: 1.15;
   }
 
-  &__role,
-  &__affiliation,
-  &__tagline,
+  &__address,
   &__links {
     margin: 0.35em 0;
   }
 
-  &__role {
-    font-size: $type-size-4;
-    font-weight: 600;
-  }
-
-  &__affiliation {
+  &__address {
     color: $gray;
     font-size: $type-size-6;
-  }
-
-  &__tagline {
-    margin-top: 1em;
-    color: $primary-color;
-    font-family: $sans-serif;
-    font-size: $type-size-4;
-    font-weight: 600;
+    line-height: 1.5;
   }
 
   &__links {
