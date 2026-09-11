@@ -25,6 +25,12 @@
       {% if author.employer %}
         <li class="author__employer"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
+      {% if author.address %}
+        <li class="author__address">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
+          <span>{% for line in author.address %}{{ line }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</span>
+        </li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}

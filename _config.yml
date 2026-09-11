@@ -23,9 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Laizhen Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "M.Eng. Student in Computer Technology"
-  location         : "Shenzhen, China"
-  employer         : "Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
+  bio              :
+  location         :
+  employer         :
+  address:
+    - "F-building, 10th floor"
+    - "Xueyuan Avenue No. 1068, Nanshan District"
+    - "Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
+    - "Shenzhen, Guangdong, China"
   pubmed           : 
   googlescholar    :
   email            : "lilaizhencs@gmail.com"
