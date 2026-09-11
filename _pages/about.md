@@ -11,7 +11,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <header class="site-intro">
-  <h1 class="site-intro__name">Laizhen Li</h1>
+  <h1 class="site-intro__name">Laizhen Li (李来真)</h1>
   <p class="site-intro__address">
     Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences<br>
     Shenzhen, Guangdong, China
