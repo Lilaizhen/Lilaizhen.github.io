@@ -10,20 +10,15 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am a Master's student in Computer Technology at the University of Chinese Academy of Sciences and conduct research at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I am advised by **Xitong Gao**.
+# About Me
 
-# Research Interests
+I am a Master's student in Computer Technology at the University of Chinese Academy of Sciences and conduct research at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, under the supervision of **Xitong Gao**. I received my B.Eng. in Software Engineering from Henan University of Engineering in 2023.
 
-My research focuses on making large language models (LLMs) robust to adversarial misuse, securing LLM agents operating in untrusted environments, and improving the effectiveness and efficiency of agent systems.
+My research focuses on building trustworthy and efficient LLM agents. I study how to make large language models (LLMs) robust to adversarial misuse, how to secure agents operating in untrusted environments, and how to improve the effectiveness and efficiency of agent systems.
 
-# Education
+<span class="anchor" id="selected-works"></span>
 
-- **University of Chinese Academy of Sciences**, China - M.Eng. in Computer Technology, Sep. 2024-present. Advisor: Xitong Gao.
-- **Henan University of Engineering**, China - B.Eng. in Software Engineering, Sep. 2019-Jul. 2023.
-
-<span class="anchor" id="research"></span>
-
-# Research Experience
+# Selected Works
 
 ## LLM Jailbreak Defense - StreamGuard
 
@@ -57,7 +52,3 @@ Designed and implemented **Growing Harness**, a failure-guided framework that st
 
 2. **Co-Evolving Poison and Defense Harnesses: Adversarial Arms Races for Indirect Prompt Injection in Tool-Integrated Agents**  
    **AAAI 2027**, under review.
-
-# CV
-
-For a complete list of education, research experience, publications, and skills, see my [CV](/files/Laizhen-Li-CV.pdf).
