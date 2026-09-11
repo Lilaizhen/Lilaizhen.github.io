@@ -2,13 +2,27 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
 <span class="anchor" id="about-me"></span>
+
+<header class="site-intro">
+  <h1 class="site-intro__name">Laizhen Li</h1>
+  <p class="site-intro__role">M.Eng. Student in Computer Technology</p>
+  <p class="site-intro__affiliation">University of Chinese Academy of Sciences · Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences</p>
+  <p class="site-intro__tagline">Trustworthy and Efficient LLM Agents</p>
+  <p class="site-intro__links">
+    <a href="mailto:lilaizhencs@gmail.com">Email</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://github.com/Lilaizhen">GitHub</a>
+    <span aria-hidden="true">·</span>
+    <a href="/files/Laizhen-Li-CV.pdf">CV</a>
+  </p>
+</header>
 
 # About Me
 
