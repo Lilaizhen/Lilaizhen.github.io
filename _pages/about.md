@@ -52,15 +52,15 @@ Designed and implemented **Growing Harness**, a failure-guided framework that st
 # Publications
 
 1. **StreamGuard: A Streaming-based Defense Against Jailbreaking Attacks in Large Language Models**  
-   *Laizhen Li*, Xitong Gao, Xuan Wang, Juanjuan Zhao, and Kejiang Ye.<br>
+   <u>Laizhen Li</u>, Xitong Gao, Xuan Wang, Juanjuan Zhao, and Kejiang Ye.<br>
    **ICONIP 2025**. [Paper](https://doi.org/10.1007/978-981-95-4109-6_21)
 
 2. **JADE: Jailbreak-Aware Dynamic Defense Enhancer for LLMs via Reinforcement Learning**  
-   Peicheng Zhao, *Laizhen Li*, Xitong Gao, Juanjuan Zhao, and Kejiang Ye.<br>
+   Peicheng Zhao, <u>Laizhen Li</u>, Xitong Gao, Juanjuan Zhao, and Kejiang Ye.<br>
    **IEEE BigData 2025**. [Paper](https://doi.org/10.1109/BigData66926.2025.11400893)
 
 3. **A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem**  
-   *Laizhen Li*, Xuan Wang, Peicheng Zhao, Juanjuan Zhao, Kejiang Ye, Cheng-zhong Xu, and Xitong Gao.<br>
+   <u>Laizhen Li</u>, Xuan Wang, Peicheng Zhao, Juanjuan Zhao, Kejiang Ye, Cheng-zhong Xu, and Xitong Gao.<br>
    **AACL-IJCNLP 2026, accepted**.
 
 # Manuscripts Under Review
