@@ -61,7 +61,7 @@ Designed and implemented **Growing Harness**, a failure-guided framework that st
 
 3. **A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem**  
    <u>Laizhen Li</u>, Xuan Wang, Peicheng Zhao, Juanjuan Zhao, Kejiang Ye, Cheng-zhong Xu, and Xitong Gao.<br>
-   **AACL-IJCNLP 2026, accepted**.
+   **AACL-IJCNLP 2026 (main)**.
 
 # Manuscripts Under Review
 
