@@ -12,7 +12,14 @@ redirect_from:
 
 I am a Master's student in Computer Technology at the University of Chinese Academy of Sciences and conduct research at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I am advised by **Xitong Gao**.
 
+# Research Interests
+
 My research focuses on making large language models (LLMs) robust to adversarial misuse, securing LLM agents operating in untrusted environments, and improving the effectiveness and efficiency of agent systems.
+
+# Education
+
+- **University of Chinese Academy of Sciences**, China - M.Eng. in Computer Technology, Sep. 2024-present. Advisor: Xitong Gao.
+- **Henan University of Engineering**, China - B.Eng. in Software Engineering, Sep. 2019-Jul. 2023.
 
 <span class="anchor" id="research"></span>
 
