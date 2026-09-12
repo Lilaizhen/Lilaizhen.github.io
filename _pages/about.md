@@ -11,9 +11,8 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <header class="site-intro">
-  <h1 class="site-intro__name">Laizhen Li (李来真)</h1>
+  <h1 class="site-intro__name">Laizhen Li (李来真) <span class="site-intro__pronouns">· he/him</span></h1>
   <p class="site-intro__role">
-    <strong>he/him</strong><br>
     <strong>Master's Student in Computer Technology @ UCAS</strong>
   </p>
   <p class="site-intro__links">

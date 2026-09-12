@@ -53,6 +53,13 @@
     line-height: 1.15;
   }
 
+  &__pronouns {
+    font-size: 0.45em;
+    font-weight: 400;
+    vertical-align: middle;
+    white-space: nowrap;
+  }
+
   &__address,
   &__role,
   &__links {
