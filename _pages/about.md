@@ -11,6 +11,8 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <header class="site-intro">
+  <img class="site-intro__portrait" src="{{ '/images/laizhen-li.png' | relative_url }}" alt="Laizhen Li" width="160" height="160">
+  <div class="site-intro__details">
   <h1 class="site-intro__name">Laizhen Li (李来真)</h1>
   <p class="site-intro__role">
     <strong>Master's Student in Computer Technology @ UCAS</strong>
@@ -22,6 +24,7 @@ redirect_from:
     <span aria-hidden="true">·</span>
     <a href="/files/Laizhen-Li-CV.pdf">CV</a>
   </p>
+  </div>
 </header>
 
 # About Me
