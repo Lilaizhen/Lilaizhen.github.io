@@ -17,7 +17,7 @@ redirect_from:
     <strong>Master's Student in Computer Technology @ UCAS</strong>
   </p>
   <p class="site-intro__links">
-    <span>lilaizhencs [at] gmail [dot] com</span>
+    <a href="mailto:lilaizhencs@gmail.com">lilaizhencs@gmail.com</a>
     <span aria-hidden="true">·</span>
     <a href="https://github.com/Lilaizhen">GitHub</a>
     <span aria-hidden="true">·</span>
