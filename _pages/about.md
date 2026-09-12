@@ -35,17 +35,44 @@ I work on trustworthy and efficient AI, with a current focus on LLM safety, agen
 
 # Selected Works
 
+<div class="selected-work" markdown="1">
+<a class="selected-work__figure" href="{{ '/images/selected-works/streamguard.png' | relative_url }}" target="_blank" rel="noopener" aria-label="View StreamGuard framework figure at full size">
+  <img src="{{ '/images/selected-works/streamguard.png' | relative_url }}" alt="StreamGuard workflow: self-review of partial generations followed by continuation or safety prompt insertion." width="1445" height="1020" loading="lazy" decoding="async">
+</a>
+<div class="selected-work__text" markdown="1">
+
 ## LLM Safety - StreamGuard
 
 Designed and implemented **StreamGuard**, a lightweight, plug-and-play decoding-time defense against jailbreak attacks. StreamGuard self-reviews partial generations and inserts safety prompts when unsafe content is detected, without fine-tuning. Across six model-attack settings, it achieved a mean attack success rate of **1.7%**, compared with **20.3%** for the strongest defense baseline and **60.3%** without defense.
+
+</div>
+</div>
+
+<div class="selected-work" markdown="1">
+<a class="selected-work__figure" href="{{ '/images/selected-works/a2m.png' | relative_url }}" target="_blank" rel="noopener" aria-label="View A2M framework figure at full size">
+  <img src="{{ '/images/selected-works/a2m.png' | relative_url }}" alt="A2M framework: metadata optimization in the Attraction phase and trace-guided payload refinement in the Manipulation phase." width="1368" height="1029" loading="lazy" decoding="async">
+</a>
+<div class="selected-work__text" markdown="1">
 
 ## Agent Security - A2M
 
 Designed and implemented **A2M (Attraction to Manipulation)**, a two-stage black-box attack that optimizes tool metadata to increase selection likelihood and then refines return payloads using execution traces to manipulate downstream reasoning. On LiveMCPBench, A2M achieved a mean ASR of **74.4%** across information exfiltration, unauthorized environment modification, and reasoning derailment objectives, and increased token consumption by **32.4x** on a separate token-wasting objective. The optimized attacks also transferred effectively to unseen models.
 
+</div>
+</div>
+
+<div class="selected-work" markdown="1">
+<a class="selected-work__figure" href="{{ '/images/selected-works/growing-harness.png' | relative_url }}" target="_blank" rel="noopener" aria-label="View Growing Harness framework figure at full size">
+  <img src="{{ '/images/selected-works/growing-harness.png' | relative_url }}" alt="Growing Harness framework: a minimal scaffold grows through failure tracing, localized code repairs, and held-out evaluation with rollback." width="1543" height="718" loading="lazy" decoding="async">
+</a>
+<div class="selected-work__text" markdown="1">
+
 ## Agent Efficiency - Growing Harness
 
 Designed and implemented **Growing Harness**, a failure-guided framework that starts from a strategy-free scaffold and incrementally grows into an executable agent harness through function-level execution traces and localized code edits. This shifts recurring control logic from LLM inference to reusable program code. Across six benchmark-model settings, it achieved a mean task success rate of **42.2%**, compared with **23.6%** for a ReAct-style Tool-Calling baseline, while reducing LLM calls by **76.0-91.8%** and inference cost by **74.4-98.6%**.
+
+</div>
+</div>
 
 <span class="anchor" id="publications"></span>
 
