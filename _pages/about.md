@@ -27,7 +27,7 @@ redirect_from:
 
 # About Me
 
-I am a Master's student in Computer Technology at the University of Chinese Academy of Sciences and conduct research at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, under the supervision of **Xitong Gao**. I received my B.Eng. in Software Engineering from Henan University of Engineering in 2023.
+I am a master's student in Computer Technology at the University of Chinese Academy of Sciences. I conduct research at the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, under the supervision of **Xitong Gao**. I received my B.Eng. in Software Engineering from Henan University of Engineering in 2023.
 
 I work on trustworthy and efficient AI, with a current focus on *LLM safety*, *agent security*, and *agent efficiency*.
 
