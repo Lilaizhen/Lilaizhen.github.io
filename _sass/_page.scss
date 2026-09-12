@@ -54,8 +54,15 @@
   }
 
   &__address,
+  &__role,
   &__links {
     margin: 0.35em 0;
+  }
+
+  &__role {
+    color: $gray;
+    font-size: $type-size-6;
+    line-height: 1.5;
   }
 
   &__address {
