@@ -92,10 +92,8 @@ Designed and implemented **Growing Harness**, a failure-guided framework that st
    Peicheng Zhao, <u>Laizhen Li</u>, Xitong Gao, Juanjuan Zhao, and Kejiang Ye.<br>
    **IEEE BigData 2025**. [Paper](https://doi.org/10.1109/BigData66926.2025.11400893)
 
-# Manuscripts Under Review
+# Manuscripts
 
 1. **Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents**  
-   **AAAI 2027**, under review.
 
 2. **Co-Evolving Poison and Defense Harnesses: Adversarial Arms Races for Indirect Prompt Injection in Tool-Integrated Agents**  
-   **AAAI 2027**, under review.
