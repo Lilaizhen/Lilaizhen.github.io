@@ -43,6 +43,8 @@ I work on generative AI, with a current focus on LLM safety, agent security, and
 
 ## LLM Safety - StreamGuard
 
+[Paper](https://doi.org/10.1007/978-981-95-4109-6_21)
+
 Designed and implemented **StreamGuard**, a lightweight, plug-and-play decoding-time defense against jailbreak attacks. StreamGuard self-reviews partial generations and inserts safety prompts when unsafe content is detected, without fine-tuning. Across six model-attack settings, it achieved a mean attack success rate of **1.7%**, compared with **20.3%** for the strongest defense baseline and **60.3%** without defense.
 
 </div>
