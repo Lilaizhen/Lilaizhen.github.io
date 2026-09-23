@@ -29,7 +29,7 @@ redirect_from:
 
 I am a master's student in Computer Technology at the University of Chinese Academy of Sciences (UCAS). I conduct research at the Research Center for Cloud Computing, Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences, under the supervision of **Xitong Gao**. I received my B.Eng. in Software Engineering from Henan University of Engineering in 2023.
 
-I work on generative AI, with a current focus on LLM safety, agent security, and agent efficiency.
+I work on large language models (LLMs) and AI agents, with a focus on safety, security, and efficiency.
 
 <span class="anchor" id="selected-works"></span>
 
