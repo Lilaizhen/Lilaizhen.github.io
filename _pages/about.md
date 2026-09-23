@@ -58,7 +58,7 @@ Designed and implemented **StreamGuard**, a lightweight, plug-and-play decoding-
 
 ## Agent Security - A2M
 
-[arXiv](https://arxiv.org/abs/2609.26761)
+[Paper](https://arxiv.org/abs/2609.26761)
 
 Designed and implemented **A2M (Attraction to Manipulation)**, a two-stage black-box attack that optimizes tool metadata to increase selection likelihood and then refines return payloads using execution traces to manipulate downstream reasoning. On LiveMCPBench, A2M achieved a mean ASR of **74.4%** across information exfiltration, unauthorized environment modification, and reasoning derailment objectives, and increased token consumption by **32.4x** on a separate token-wasting objective. The optimized attacks also transferred effectively to unseen models.
 
@@ -73,7 +73,7 @@ Designed and implemented **A2M (Attraction to Manipulation)**, a two-stage black
 
 ## Agent Efficiency - Growing Harness
 
-[arXiv](https://arxiv.org/abs/2609.26760)
+[Paper](https://arxiv.org/abs/2609.26760)
 
 Designed and implemented **Growing Harness**, a failure-guided framework that starts from a strategy-free scaffold and incrementally grows into an executable agent harness through function-level execution traces and localized code edits. This shifts recurring control logic from LLM inference to reusable program code. Across six benchmark-model settings, it achieved a mean task success rate of **42.2%**, compared with **23.6%** for a ReAct-style Tool-Calling baseline, while reducing LLM calls by **76.0-91.8%** and inference cost by **74.4-98.6%**.
 
@@ -86,7 +86,7 @@ Designed and implemented **Growing Harness**, a failure-guided framework that st
 
 1. **A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem**  
    <u>Laizhen Li</u>, Xuan Wang, Peicheng Zhao, Juanjuan Zhao, Kejiang Ye, Cheng-zhong Xu, and Xitong Gao.<br>
-   **AACL-IJCNLP 2026 (main)**. [arXiv](https://arxiv.org/abs/2609.26761)
+   **AACL-IJCNLP 2026 (main)**. [Paper](https://arxiv.org/abs/2609.26761)
 
 2. **StreamGuard: A Streaming-based Defense Against Jailbreaking Attacks in Large Language Models**  
    <u>Laizhen Li</u>, Xitong Gao, Xuan Wang, Juanjuan Zhao, and Kejiang Ye.<br>
@@ -99,6 +99,6 @@ Designed and implemented **Growing Harness**, a failure-guided framework that st
 # Manuscripts
 
 1. **Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents**  
-   [arXiv](https://arxiv.org/abs/2609.26760)
+   [Paper](https://arxiv.org/abs/2609.26760)
 
 2. **Co-Evolving Poison and Defense Harnesses: Adversarial Arms Races for Indirect Prompt Injection in Tool-Integrated Agents**  
