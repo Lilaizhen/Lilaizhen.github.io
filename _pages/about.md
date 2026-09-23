@@ -21,8 +21,6 @@ redirect_from:
     <a href="mailto:lilaizhencs@gmail.com">lilaizhencs@gmail.com</a>
     <span aria-hidden="true">·</span>
     <a href="https://github.com/Lilaizhen">GitHub</a>
-    <span aria-hidden="true">·</span>
-    <a href="/files/Laizhen-Li-CV.pdf">CV</a>
   </p>
   </div>
 </header>
@@ -99,6 +97,5 @@ Designed and implemented **Growing Harness**, a failure-guided framework that st
 # Manuscripts
 
 1. **Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents**  
+   <u>Laizhen Li</u>, Jiarui Li, Juanjuan Zhao, Kejiang Ye, Ye Li, Cheng-zhong Xu, and Xitong Gao.
    [Paper](https://arxiv.org/abs/2609.26760)
-
-2. **Co-Evolving Poison and Defense Harnesses: Adversarial Arms Races for Indirect Prompt Injection in Tool-Integrated Agents**  
