@@ -21,6 +21,8 @@ redirect_from:
     <a href="mailto:lilaizhencs@gmail.com">lilaizhencs@gmail.com</a>
     <span aria-hidden="true">·</span>
     <a href="https://github.com/Lilaizhen">GitHub</a>
+    <span aria-hidden="true">·</span>
+    <a href="{{ '/files/Laizhen-Li-CV.pdf' | relative_url }}"><strong>CV (PDF)</strong></a>
   </p>
   </div>
 </header>

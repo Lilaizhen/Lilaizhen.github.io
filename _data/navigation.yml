@@ -8,3 +8,6 @@ main:
 
   - title: "Publications"
     url: "/#publications"
+
+  - title: "CV"
+    url: "/files/Laizhen-Li-CV.pdf"
