@@ -22,6 +22,8 @@ redirect_from:
     <span aria-hidden="true">·</span>
     <a href="https://github.com/Lilaizhen">GitHub</a>
     <span aria-hidden="true">·</span>
+    <a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>
+    <span aria-hidden="true">·</span>
     <a href="{{ '/files/Laizhen-Li-CV.pdf' | relative_url }}"><strong>CV (PDF)</strong></a>
   </p>
   </div>
