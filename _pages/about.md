@@ -90,7 +90,7 @@ Designed and implemented **Growing Harness**, a failure-guided framework that st
 
 1. **A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem**  
    <u>Laizhen Li</u>, Xuan Wang, Peicheng Zhao, Juanjuan Zhao, Kejiang Ye, Cheng-zhong Xu, and Xitong Gao.<br>
-   **AACL-IJCNLP 2026 (main)**. [Paper](https://arxiv.org/abs/2609.26761)
+   **AACL-IJCNLP 2026 (Main Conference, Oral Presentation)**. [Paper](https://arxiv.org/abs/2609.26761)
 
 2. **StreamGuard: A Streaming-based Defense Against Jailbreaking Attacks in Large Language Models**  
    <u>Laizhen Li</u>, Xitong Gao, Xuan Wang, Juanjuan Zhao, and Kejiang Ye.<br>
